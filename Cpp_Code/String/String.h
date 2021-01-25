@@ -17,7 +17,7 @@ public:
     String();
     String(const String & s);
     String(String && s);
-    String(char c,int n);
+    //String(char c,int n);
 //destructor
     ~String();
 //I/O
